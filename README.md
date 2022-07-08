@@ -8,12 +8,13 @@ ModuleChallege2
 
  ## Results-
      Results for stock market 2017 showed that some stocks like DQ, ENPH and SEDG did really well while TERP stock fell down by approximately 8% 
-     ![2017_stocks output](Resources/2017_stocks.png) 
+![2017_stocks output](Resources/2017_stocks.png) 
 
-      But in 2018 all sticks showed a great fall except ENPH and RUN, which were fairly good. ![2018 stocks](Resources/2018_stockspng.png) 
+      But in 2018 all sticks showed a great fall except ENPH and RUN, which were fairly good.
+![2018 stocks](Resources/2018_stockspng.png) 
       We were also able to calculate run time for both years, which took almost same amount of time to run for both years. 
-      ![Runtime for 2017](Resources/VBA_challange_runtime2017.png)
-      ![Runtime for 2018 stocks sheet](Resources/VBA_challange_runtime2018.png)
+![Runtime for 2017](Resources/VBA_challange_runtime2017.png)
+![Runtime for 2018 stocks sheet](Resources/VBA_challange_runtime2018.png)
 
 
 ## Summary-
